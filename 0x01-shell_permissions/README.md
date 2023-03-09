@@ -9,3 +9,4 @@
 8-James_Bond a script that sets the permission to the file hello: no permission to the owner, no permission to the group, and all permissions to other users
 9-John_Doe Write a script that sets the mode of the file hello to given expression
 10-mirror_permissions Write a script that sets the mode of the file hello the same as olleh’s mode.
+11-directories_permissions  a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
